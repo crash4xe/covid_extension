@@ -1,0 +1,11 @@
+{
+    "name": "Covid-19 Status UK",
+    "version": "1.0.0",
+    "description": "latest Covid Report",
+    "manifest_version": 3,
+    "author": "Jayant",
+    "action": {
+        "default_popup":"index.html",
+        "default_title": "Latest Covid Report"
+    }
+}
